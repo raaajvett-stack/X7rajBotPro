@@ -97,7 +97,7 @@
 
 ## 📞 **الدعم الفني**
 
-- 💬 **تيليجرام:** [@X7raj_Support](https://t.me/H0_sting)
+- 💬 **تيليجرام:** [@X7raj_Support](https://t.me/Ho_sting)
 - 📧 **البريد الإلكتروني:** support@x7raj-bot.com
 
 ---
